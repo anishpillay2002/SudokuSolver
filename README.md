@@ -17,6 +17,9 @@ For more info on pipenv, visit: https://pipenv-fork.readthedocs.io/en/latest/bas
 ## Run the Program
 Execute: SudokuSolve.py
 The program will ask you for a csv file to read the input puzzle. Please provide the complete path to a csv file.
+A virtual environment has been set up using pipenv.
+To install pipenv: pip install pipenv
+To initialize the environment: Browse to the folder and execute 'pipenv install'
 
 ## Sample Files:
 There are 2 csv files with Puzzles in the repository courtesy of:
